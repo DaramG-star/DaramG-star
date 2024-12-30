@@ -12,4 +12,13 @@
 - R
 
 ### Publications
-- 
+
+### qualifications
+- 빅데이터 분석기사
+- SQLD
+- ADsP
+- 정보처리기사
+
+## Hobby
+- League of legends
+- Driving
