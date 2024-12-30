@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DaramG-star&fontSize=90&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2398F9FF&title_bg=%23D2DEE2&icon=&icon_color=%2364EBCC&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-<a href="https://instagram.com/alpox.dev">
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaramG-star&edge_flat=false&title=hits)
 
 <a href="[버튼을 눌렀을 때 이동할 링크](https://www.instagram.com/sukrladuswn123/profilecard/?igsh=MWpzaXdwbzNld3p5bw==)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"#FF0069">
 
