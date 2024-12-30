@@ -2,7 +2,7 @@
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaramG-star&edge_flat=false&title=hits)
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://www.instagram.com/sukrladuswn123/profilecard/?igsh=MWpzaXdwbzNld3p5bw==)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"#FF0069">
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=다람쥐)](https://velog.io/@cute_daramg/posts)
 
 ### DaramG-star : Financial Data Analysis
 
