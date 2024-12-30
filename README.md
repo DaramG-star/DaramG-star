@@ -6,6 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaramG-star)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaramG-star)](https://github.com/DaramG-star/github-readme-stats)
+
+
 ### DaramG-star : Financial Data Analysis
 
 금융 데이터 분석에 관심이 많으며, 머신러닝 딥러닝 모두 관심이 있습니다
