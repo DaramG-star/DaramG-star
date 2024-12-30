@@ -2,7 +2,7 @@
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaramG-star&edge_flat=false&title=hits)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=다람쥐)](https://velog.io/@cute_daramg/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cute_daramg)](https://velog.io/@cute_daramg/posts)
 
 ### DaramG-star : Financial Data Analysis
 
