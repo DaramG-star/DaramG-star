@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DaramG-star&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#00AAFF&height=300&section=header&text=DaramG-star&fontSize=90&animation=twinkling)
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaramG-star&edge_flat=false&title=hits)
 
