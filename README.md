@@ -8,6 +8,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaramG-star)](https://github.com/DaramG-star/github-readme-stats)
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sukrladuswn" width="600" height="300"/></a>
+
 
 ### DaramG-star : Financial Data Analysis
 
@@ -32,5 +34,3 @@
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sukrladuswn" width="600" height="300"/></a>
