@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=360&text=DaramG-star&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sukrladuswn" width="600" height="300"/></a>
+
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaramG-star&edge_flat=false&title=hits)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cute_daramg)](https://velog.io/@cute_daramg/posts)
@@ -8,7 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaramG-star)](https://github.com/DaramG-star/github-readme-stats)
 
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sukrladuswn" width="600" height="300"/></a>
+
 
 
 ### DaramG-star : Financial Data Analysis
