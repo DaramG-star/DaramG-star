@@ -2,10 +2,6 @@
 
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sukrladuswn" width="600" height="300"/></a>
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaramG-star&edge_flat=false&title=hits)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cute_daramg)](https://velog.io/@cute_daramg/posts)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaramG-star)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaramG-star)](https://github.com/DaramG-star/github-readme-stats)
