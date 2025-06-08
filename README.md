@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=360&text=DaramG-star&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaramG-star)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaramG-star)](https://github.com/DaramG-star/github-readme-stats)
-
-
-
 
 ### DaramG-star : Financial Data Analysis
 
