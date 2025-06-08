@@ -57,15 +57,6 @@
 
 ---
 
-## 📜 Certificates
-
-- 📊 **빅데이터분석기사**
-- 🧮 **SQLD (SQL Developer)**
-- 📈 **ADsP (데이터분석 준전문가)**
-- 💻 **정보처리기사**
-
----
-
 ## 🎮 Hobby & Interests
 
 ![PlayStation](https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=PlayStation&logoColor=white)
