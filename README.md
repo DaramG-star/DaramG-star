@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaramG-star&fontSize=90" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaramG-star&fontSize=90" 
+  width="100%" 
+/>
+
 
 <p align="center">
   <b>금융 데이터를 사랑하는 통계학 석사 출신 개발자</b> <br/>
