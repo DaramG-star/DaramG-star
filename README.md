@@ -24,6 +24,7 @@
 
 | 수상내역 | 설명 |
 | ------- | ---- |
+| 🏅 오산시 홍보 아이디어 공모전 수상 | 지역 특산물 소비율 분석 기반 ‘한 끼 밥상 패키지’ 마케팅 전략 제안 |
 | 🏅 한국데이터정보과학회 포스터 발표 수상 | PSM 기반 머신러닝·딥러닝을 활용한 상장폐지 기업 예측 연구 |
 | 🥇 SSAFY 1학기 관통프로젝트 최우수상 | Vue + Django 기반 금융 추천 플랫폼 [`finMunk`](https://github.com/DaramG-star/SSAFY_1st_PJT_front) |
 | 🥉 SSAFY AI 챌린지 3등상 | 딥러닝 기반 도로 파손 탐지 프로젝트 [`POTHOLE_DETECTION_CHALLENGE`](https://github.com/DaramG-star/POTHOLE_DETECTION_CHALLENGE) |
