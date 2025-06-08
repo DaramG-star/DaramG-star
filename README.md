@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=DaramG-star&fontSize=60&fontAlign=50&fontAlignY=40&desc=Financial%20Data%20Scientist%20%7C%20ML%20%26%20DL%20Enthusiast&descAlign=50&descAlignY=65)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaramG-star&fontSize=90" />
 
 <p align="center">
   <b>금융 데이터를 사랑하는 통계학 석사 출신 개발자</b> <br/>
