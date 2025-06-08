@@ -72,5 +72,5 @@
 
 ## 📫 Contact
 
-- 📧 Email: [daramg.star@gmail.com](mailto:daramg.star@gmail.com)
+- 📧 Email: [sukrladuswn@naver.com](mailto:sukrladuswn@naver.com)
 - 🔗 GitHub: [@DaramG-star](https://github.com/DaramG-star)
